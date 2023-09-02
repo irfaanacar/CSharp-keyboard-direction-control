@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\klavyeileyonkontrolu\bin\Debug\klavyeileyonkontrolu.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\klavyeileyonkontrolu\bin\Debug\klavyeileyonkontrolu.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\klavyeileyonkontrolu\bin\Debug\klavyeileyonkontrolu.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\klavyeileyonkontrolu\obj\Debug\klavyeileyonkontrolu.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\klavyeileyonkontrolu\obj\Debug\klavyeileyonkontrolu.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\klavyeileyonkontrolu\obj\Debug\klavyeileyonkontrolu.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\klavyeileyonkontrolu\obj\Debug\klavyeileyonkontrolu.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\klavyeileyonkontrolu\obj\Debug\klavyeileyonkontrolu.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\klavyeileyonkontrolu\obj\Debug\klavyeileyonkontrolu.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\klavyeileyonkontrolu\obj\Debug\klavyeileyonkontrolu.pdb
